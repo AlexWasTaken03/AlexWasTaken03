@@ -62,20 +62,6 @@ Computer Engineering student specializing in **Cybersecurity** and **DevSecOps**
 
 ---
 
-## 🏆 Featured Security & DevSecOps Projects
-
-### 🚀 [Secure Kubernetes Infrastructure Platform](link-to-repo)
-**DevSecOps - Cloud Native Security Automation**
-- 🏗️ Complete IaC solution with Terraform, Ansible, and Vagrant
-- 🔐 CIS Kubernetes security benchmarking with automated kube-bench
-- 🛡️ RBAC policies, Network Security Policies, Pod Security Standards
-- ⚡ CI/CD pipeline with security scanning and compliance validation
-- 🚨 Integrated container vulnerability scanning and policy enforcement
-
-**Tech:** `Kubernetes` `Terraform` `Ansible` `Docker` `Helm` `GitHub Actions` `kube-bench`
-
----
-
 ## 📊 Security Stats
 
 <div align="center">
