@@ -66,9 +66,6 @@ Computer Engineering student specializing in **Cybersecurity** and **DevSecOps**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexWasTaken03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak Stats"/>
 </div>
 
